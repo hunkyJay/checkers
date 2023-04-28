@@ -22,6 +22,10 @@ You move a piece by clicking on a piece with a possible move, and clicking on th
 Serialisation
 The game features a very basic save and load system - serialising the board state to a string, and loading that string back to reset the board state to what it was when the string was generated.
 
+### Prerequisite
+ 
+The project mainly uses [Java 17](https://www.oracle.com/java/technologies/downloads/#java17) and [gradle 7.2](https://gradle.org/releases/) with some dependencies. You can also ues a higher version than they do.
+
 ### Getting Started
 
 #### Running
