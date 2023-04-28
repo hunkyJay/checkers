@@ -22,6 +22,29 @@ You move a piece by clicking on a piece with a possible move, and clicking on th
 Serialisation
 The game features a very basic save and load system - serialising the board state to a string, and loading that string back to reset the board state to what it was when the string was generated.
 
+### Getting Started
+
+#### Running
+
+  
+
+`gradle run`
+
+  
+
+#### Building
+
+  
+
+`gradle build`
+
+  
+
+#### Testing
+
+  
+
+`gradle test`
 
 
 
