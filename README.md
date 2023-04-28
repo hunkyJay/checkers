@@ -1,6 +1,8 @@
 # Checkers
 A Checkers game written in JavaFX
 
+![Checkers](./imgs/checkers.png)
+
 ### This game has some simple rules
 
 - Players take turns to move 1 piece at a time
